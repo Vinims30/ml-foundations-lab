@@ -1,8 +1,8 @@
-# 🤖 Machine Learning Foundations Lab
+# Machine Learning Foundations Lab
 
 Repositório dedicado ao estudo prático e implementação de algoritmos clássicos de Machine Learning e modelagem estatística em Python. O objetivo principal é consolidar a base teórica através da resolução de problemas do mundo real, priorizando código limpo, vetorização eficiente e análise rigorosa de métricas.
 
-## 🛠️ Tecnologias e Bibliotecas
+## Tecnologias e Bibliotecas
 
 * **Linguagem:** Python 3.x
 * **Manipulação e Computação Vetorial:** NumPy, Pandas
@@ -10,7 +10,7 @@ Repositório dedicado ao estudo prático e implementação de algoritmos clássi
 * **Visualização:** Matplotlib, Seaborn
 * **Ambiente:** Jupyter Notebooks & Scripts Modularizados (`.py`)
 
-## 📂 Estrutura de Projetos
+## Estrutura de Projetos
 
 O repositório é dividido por categorias de problemas e algoritmos estudados:
 
