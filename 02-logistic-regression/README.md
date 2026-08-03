@@ -4,7 +4,7 @@
 A competição "Titanic - Machine Learning from Disaster" é um dos desafios mais clássicos e introdutórios da plataforma Kaggle. O objetivo é utilizar dados reais dos passageiros (como idade, sexo, classe do bilhete e porto de embarque) para construir um modelo preditivo capaz de determinar quem sobreviveu e quem não sobreviveu ao naufrágio do RMS Titanic.
 
 ## O Problema
-O naufrágio do Titanic resultou na perda de diversas vidas, mas a sobrevivência não foi um evento puramente aleatório; alguns grupos de pessoas (como mulheres, crianças e passageiros da primeira classe) tiveram maiores chances de escapar. O nosso desafio como cientistas de dados é extrair esses padrões matemáticos da base de treino e aplicá-los para prever a sobrevivência de 418 passageiros na base de teste cega fornecida pelo Kaggle.
+O naufrágio do Titanic resultou na perda de diversas vidas, mas a sobrevivência não foi um evento puramente aleatório; alguns grupos de pessoas (como mulheres, crianças e passageiros da primeira classe) tiveram maiores chances de escapar. O nosso desafio é extrair esses padrões matemáticos da base de treino e aplicá-los para prever a sobrevivência de 418 passageiros na base de teste cega fornecida pelo Kaggle.
 
 ## Metodologia e Workflow (Jupyter Notebook)
 
