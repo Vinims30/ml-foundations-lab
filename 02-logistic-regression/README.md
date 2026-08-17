@@ -24,4 +24,4 @@ A solução foi desenvolvida de forma iterativa e documentada no notebook `desaf
 *   **Acurácia de Validação Local (Holdout 20%)**: 81.01%
 *   **Score Oficial no Kaggle (Test Set)**: **0.76555**.
 
-A pequena diferença entre a validação local e o score do Kaggle é um comportamento esperado em competições de Machine Learning, refletindo o ajuste natural do modelo aos dados não vistos da plataforma. A abordagem comprovou que um modelo linear transparente, aliado a uma boa limpeza estatística, constrói *baselines* sólidos e confiáveis.
+A pequena diferença entre a validação local e o score do Kaggle é um comportamento esperado em competições de Machine Learning, refletindo o ajuste natural do modelo aos dados não vistos da plataforma.
