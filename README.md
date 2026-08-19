@@ -6,7 +6,7 @@ Repositório dedicado ao estudo prático e implementação de algoritmos clássi
 
 * **Linguagem:** Python 3.x
 * **Manipulação e Computação Vetorial:** NumPy, Pandas
-* **Machine Learning:** Scikit-Learn
+* **Machine Learning:** Scikit-Learn, XGBoost
 * **Visualização:** Matplotlib, Seaborn
 * **Ambiente:** Jupyter Notebooks & Scripts Modularizados (`.py`)
 
@@ -21,6 +21,8 @@ O repositório é dividido por categorias de problemas e algoritmos estudados:
 ├── 02-logistic-regression/
 │   ├── desafio_titanic.ipynb    # Previsão de sobreviventes do Titanic (Kaggle)
 │   └── README.md                # Documentação da pipeline, métricas e feature engineering
-├── 03-tree-models/              # (Em breve) Decision Trees e Random Forests
+├── 03-tree-models/              # Modelos baseados em Árvores e Ensembles
+│   ├── xgboost.ipynb            # Classificação no desafio Spaceship Titanic (Kaggle)
+│   └── README.md                # Regras de negócio, tratamento de nulos e otimização (GridSearch)
 ├── requirements.txt             # Dependências do projeto
 └── README.md
